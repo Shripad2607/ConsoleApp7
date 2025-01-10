@@ -34,7 +34,7 @@ namespace ConsoleApp7
         }
         public override void Display()
         {
-            Console.WriteLine($"This is rectangle with length{length} and width{width}");
+            Console.WriteLine($"This is rectangle with length {length} and width {width}");
         }
     }
     class circle : shape
@@ -52,7 +52,7 @@ namespace ConsoleApp7
         }
         public override void Display()
         {
-            Console.WriteLine($"This is circle with Radius{radius}");
+            Console.WriteLine($"This is circle with Radius {radius}");
         }
     }
     internal class AbstractExample
