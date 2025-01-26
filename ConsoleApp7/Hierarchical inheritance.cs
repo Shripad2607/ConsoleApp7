@@ -41,9 +41,5 @@ namespace ConsoleApp7
             r.DisplayDetails();
 
         }
-        
-
-
-         
     }
 }
